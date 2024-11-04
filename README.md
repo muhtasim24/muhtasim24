@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-Hello! I'm Muhtasim Mushfiq, a recent graduate from the University at Buffalo with a Bachelor of Science in Computer Science. I am passionate about learning new technologies and concepts that can help me grow as a software engineer. My goal is to make a meaningful impact in the world through my work, help others, and build innovative solutions. I try to learn something new everyday and I love building new projects that benefit my life and even maybe others. I thrive in collaborative environments, and love and I’m excited to embark on my journey in tech while making meaningful connections along the way!
+Hello! I'm Muhtasim Mushfiq, a recent graduate from the University at Buffalo with a Bachelor of Science in Computer Science. I am passionate about learning new technologies and concepts that can help me grow as a software engineer. My goal is to make a meaningful impact in the world through my work, help others, and build innovative solutions. I try to learn something new everyday and I love building new projects that benefit life and solve real-life problems. I thrive in collaborative environments, and love and I’m excited to embark on my journey in tech while making meaningful connections along the way!
 
 * 🌍  I'm based in New York, New York
 * 🖥️  See my portfolio at [MyPortfolio](http://mmushfiq.vercel.app/)
