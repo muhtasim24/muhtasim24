@@ -9,8 +9,7 @@ Hello! I'm Muhtasim Mushfiq, a recent graduate from the University at Buffalo wi
 * 🌍  I'm based in New York, New York
 * 🖥️  See my portfolio at [MyPortfolio](http://mmushfiq.vercel.app/)
 * ✉️  You can contact me at [muhtasim01@gmail.com](mailto:muhtasim01@gmail.com)
-* 🚀  I'm currently working on a Creative Agency Firm where I develop all software. Games for music videos, websites for artists, etc.. [Hyveout](https://hyveout-website.vercel.app/)
-* 🧠  I'm learning to integrate AI into the projects I am building.
+* 🚀  I'm currently working on a Creative Agency Firm, [Hyveout](https://hyveout-website.vercel.app/). I build all the software to websites, games, and other forms of entertainment
 * ⚡  Outside of programming, I love going to the gym and training people to reach their fitness potential. I enjoy attending events in New York City to connect with fellow professionals and expand my knowledge. I’m actively involved in NYC Tech Pickleball and different tech Run Clubs, which keeps me engaged and active.
 
 ### Skills
